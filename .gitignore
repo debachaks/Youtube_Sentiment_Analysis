@@ -207,3 +207,4 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 /experiment_info.json
+"lgbm_model.pkl" 
